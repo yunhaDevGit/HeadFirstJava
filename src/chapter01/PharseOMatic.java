@@ -1,4 +1,4 @@
-package chapter1;
+package chapter01;
 
 // 만들어진 세개의 단어 목록에서 각각 단어 하나씩 랜덤으로 선택하여 문장을 출력하는 프로그램
 public class PharseOMatic {
